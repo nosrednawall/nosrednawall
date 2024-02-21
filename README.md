@@ -1,5 +1,3 @@
-<link href="http://a-dma.github.io/gruvbox-css/gruvbox-dark-medium.min.css" rel="stylesheet"></link>
-
 # Olá, me chamo Anderson Inácio ! 
 Bem vindo ao meu Readme.md, nele você vai encontrar algumas informações legais e os meus contatos.
 
