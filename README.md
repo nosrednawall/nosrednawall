@@ -9,7 +9,7 @@ Bem vindo ao meu Readme.md, nele você vai encontrar algumas informações legai
 </div>
 
 ## Meus commits
-![Snake animation](https://github.com/nosrednawall/nosrednawall/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 💬Sobre Mim
 Sou um profissional formado em Bacharelado de Sistemas de Informação, também estudante de Estatística e amante de ferramentas Linux. 
