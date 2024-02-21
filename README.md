@@ -21,7 +21,7 @@ Estou estudando [Estatística na UFPR](http://www.est.ufpr.br/).
 
 Gosto de compartilhar trechos de códigos para ajudar a todos, esse é o meu [Gist](https://gist.github.com/nosrednawall)
 
-Gosto bastante do tema [Gruvbox](https://github.com/morhetz/gruvbox), e aonde eu puder aplico ele 😃 
+Gosto bastante do tema [Gruvbox](https://github.com/morhetz/gruvbox), e aplico ele em todos locais possíveis😃 
 
 
 ## 🔧As Ferramentas que utilizo são
