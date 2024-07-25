@@ -15,8 +15,6 @@ Possuo 4 anos de experiência na área de TI, atuando em diversas áreas como:
 Nos últimos anos me foquei em Desenvolvimento de software, utilizando Excel, Python e SQL Server, o que me aproximou da área de dados e da necessidade de aprofundar meus conhecimentos em Estatística.
 
 ## ⚡Coisas Legais:
-Atualmente estou no programa [Desenvolve do Grupo Boticário ](https://desenvolve.grupoboticario.com.br/), na trilha de Dados  🎲.
-
 Estou estudando [Estatística na UFPR](http://www.est.ufpr.br/).
 
 Gosto de compartilhar trechos de códigos para ajudar a todos, esse é o meu [Gist](https://gist.github.com/nosrednawall)
