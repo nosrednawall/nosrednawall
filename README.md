@@ -12,6 +12,8 @@ Possuo 4 anos de experiência na área de TI, atuando em diversas áreas como:
 * Desenvolvimento de módulos no ERP utilizando planilhas como base.
 * Levantamento de requisitos.
 
+Estou no projeto [PET-Estatistica da UFPR](https://pet.leg.ufpr.br/) 
+
 Nos últimos anos me foquei em Desenvolvimento de software, utilizando Excel, Python e SQL Server, o que me aproximou da área de dados e da necessidade de aprofundar meus conhecimentos em Estatística.
 
 ## ⚡Coisas Legais:
@@ -25,10 +27,7 @@ Gosto bastante dos temas [Gruvbox](https://github.com/morhetz/gruvbox) e [Solari
 ## 🔧As Ferramentas que utilizo são
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"   width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"   width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
-
-## 🌱Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="40" height="40"/>
-
 
 ## 📊Minhas Estatísticas
 <div>
