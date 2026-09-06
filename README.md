@@ -29,14 +29,6 @@ Gosto bastante dos temas [Gruvbox](https://github.com/morhetz/gruvbox) e [Solari
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="40" height="40"/>
 
-## 📊Minhas Estatísticas
-<div>
-<a href="https://github.com/nosrednawall">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosrednawall&layout=compact&langs_count=7&theme=gruvbox"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nosrednawall&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</div>
-
-
 ## 📫Contatos
 <div>
 <a href = "mailto:contato@anderson.inacio.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
